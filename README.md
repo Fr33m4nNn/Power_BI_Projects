@@ -4,11 +4,16 @@ FIRST GIF ---------------------------
 
 ## 🌊 Introduction
 
-This water pollution dashboard was created to explore environmental and water quality conditions across 10 countries using key indicators such as contaminant levels, access to clean water, sanitation level and urbanization rates.
+This interactive Power BI dashboard was created to explore environmental and water quality conditions across 10 countries using a variety of indicators such as contaminant levels, access to clean water, sanitation coverage, healthcare access, and urbanization rates.
 
-The dashboard allows users to filter by year, country, and contaminant type to view trends and compare water quality metrics across different water sources.
+The dashboard provides dynamic filtering and drill-through features, enabling users to:
 
-This project was part of my Power BI learning journey, where I practiced building dynamic and interactive dashboards using real-world dataset simulations and advanced Power BI features.
+-   Track access to clean water and healthcare over time.
+-   Compare contamination levels, sanitation coverage, and population density across countries.
+-   View detailed country-level breakdowns of water quality metrics (e.g., pH, turbidity, lead, nitrate, bacteria).
+-   Explore disease-related trends such as typhoid, cholera, and infant mortality rates.
+
+This project was part of my Power BI learning journey, where I practiced building professional, interactive dashboards to analyze complex datasets and present insights clearly.
 
 🔗 Data Source: [Water Pollution and Disease Dataset on Kaggle](https://www.kaggle.com/datasets/khushikyad001/water-pollution-and-disease/data)
 
