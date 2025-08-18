@@ -48,11 +48,12 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 This page provides an overview of water quality and related socio-economic conditions across 10 countries. It highlights key indicators such as GDP per capita, sanitation coverage, healthcare access, and urbanization rates. Users can explore trends in access to clean water, compare contamination levels, and analyze the relationship between population density and healthcare access. Together, these visuals give a quick snapshot of how environmental and public health factors interact at a global scale.
 
-### Page 2: Job Title Drill Through
+### Page 2: Country Drill Through
 
-THIRD GIF ---------------------------------
+![Page 2](images/2_2_Page_2.gif.gif)
 
+This is the deep-dive page. From the main dashboard, you can drill through to focus on a single country and explore its specific water quality indicators. The page highlights median values of key water parameters such as turbidity, pH, dissolved oxygen, and contaminants, alongside health outcomes like typhoid, diarrheal diseases, cholera, and infant mortality rates. It also shows the distribution of different water sources, giving a more detailed picture of how water quality links to public health at the national level.
 
 ## Conclusion
 
-This dashboard demonstrates how Power BI can be used to track and analyze water pollution trends across regions, highlighting key indicators such as contamination levels, seasonal patterns, and potential areas of concern. While the dataset used here is simulated for demonstration purposes, the same approach can be applied to real-world data to support monitoring, decision-making, and policy development
+This dashboard demonstrates how Power BI can be leveraged to monitor and analyze water pollution trends across regions, providing insights into contamination levels, seasonal variations, and potential areas of concern. Although the dataset used here is simulated for demonstration purposes, the same analytical approach can be applied to real-world data, enabling organizations and policymakers to make informed decisions, strengthen environmental monitoring, and guide sustainable water management strategies.
