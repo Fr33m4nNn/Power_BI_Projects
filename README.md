@@ -50,7 +50,7 @@ This page provides an overview of water quality and related socio-economic condi
 
 ### Page 2: Country Drill Through
 
-![Page 2](images/2_2_Page_2.gif.gif)
+![Page 2](images/2_2_Page_2.gif)
 
 This is the deep-dive page. From the main dashboard, you can drill through to focus on a single country and explore its specific water quality indicators. The page highlights median values of key water parameters such as turbidity, pH, dissolved oxygen, and contaminants, alongside health outcomes like typhoid, diarrheal diseases, cholera, and infant mortality rates. It also shows the distribution of different water sources, giving a more detailed picture of how water quality links to public health at the national level.
 
