@@ -23,8 +23,7 @@ This project was part of my Power BI learning journey, where I practiced buildin
 My final dashboard is in [Water_Pollution_Dashbaord.pbix](Water_Pollution_Dashbaord.pbix)
 
 
-
-## Skills Showcased
+## 🛠️ Skills Showcased
 
 This project was a journey through key Power BI features. Here's a look at what we mastered:
 
