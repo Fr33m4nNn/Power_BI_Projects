@@ -52,3 +52,15 @@ This project demonstrates a wide range of Power BI skills, including:
 - **🎨 Dashboard Design:**
 
     -   Modern dark-themed layout focused on clarity, balance, and storytelling.
+
+
+### Dashboard Overview
+
+This interactive Nobel Prize Winners Dashboard provides a single-page view of the most important insights into over a century of Nobel history. It highlights key performance indicators (KPIs) such as Total Winners, Awards, Countries, and Universities, while also enabling deeper exploration of prize amounts, categories, and institutional affiliations.
+
+
+## 🏆 Conclusion
+
+This dashboard showcases Power BI’s ability to transform complex historical data into a clear, accessible, and interactive analytical tool. By combining dynamic filters, explicit measures, and thoughtful design, the report makes it easy to explore how Nobel Prizes have evolved in value, distribution, and representation over time.
+
+Whether you’re interested in the financial evolution of the prize, the dominance of certain institutions, or the spread of awards across categories and regions, this dashboard provides an engaging way to investigate one of the world’s most prestigious honors.
