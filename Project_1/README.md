@@ -1,6 +1,6 @@
 # Water Pollution Dashboard w/ Power BI
 
-![Dashboard](../images/1_Dashboard.gif)
+![Dashboard](../images/P1/1_Dashboard.gif)
 
 ## 🌊 Introduction
 
@@ -44,13 +44,13 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ### Page 1: High-Level Environmental View
 
-![Page 1](../images/2_1_Page_1.gif)
+![Page 1](../images/P1/2_1_Page_1.gif)
 
 This page provides an overview of water quality and related socio-economic conditions across 10 countries. It highlights key indicators such as GDP per capita, sanitation coverage, healthcare access, and urbanization rates. Users can explore trends in access to clean water, compare contamination levels, and analyze the relationship between population density and healthcare access. Together, these visuals give a quick snapshot of how environmental and public health factors interact at a global scale.
 
 ### Page 2: Country Drill Through
 
-![Page 2](../images/2_2_Page_2.gif)
+![Page 2](../images/P1/2_2_Page_2.gif)
 
 This is the deep-dive page. From the main dashboard, you can drill through to focus on a single country and explore its specific water quality indicators. The page highlights median values of key water parameters such as turbidity, pH, dissolved oxygen, and contaminants, alongside health outcomes like typhoid, diarrheal diseases, cholera, and infant mortality rates. It also shows the distribution of different water sources, giving a more detailed picture of how water quality links to public health at the national level.
 
