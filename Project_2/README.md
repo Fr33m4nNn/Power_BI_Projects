@@ -40,10 +40,10 @@ This project demonstrates a wide range of Power BI skills, including:
 
 - **📊 Visualizations:**
 
-    -   Column & Line Combo Charts – compared median prize values with university affiliations.
-    -   Bar Charts – analyzed prize distribution across categories.
-    -   Line Charts – tracked Nobel Prize awards over time.
-    -   Cards – highlighted summary figures at a glance.
+    -   **Column & Line Combo Charts –** compared median prize values with university affiliations.
+    -   **Bar Charts –** analyzed prize distribution across categories.
+    -   **Line Charts –** tracked Nobel Prize awards over time.
+    -   **Cards –** highlighted summary figures at a glance.
 
 - **🎛️ Parameters & Slicers:**
 
