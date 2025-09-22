@@ -56,6 +56,8 @@ This project demonstrates a wide range of Power BI skills, including:
 
 ### Dashboard Overview
 
+![Dashboard](../images/P2/2_Dashboard.png)
+
 This interactive Nobel Prize Winners Dashboard provides a single-page view of the most important insights into over a century of Nobel history. It highlights key performance indicators (KPIs) such as Total Winners, Awards, Countries, and Universities, while also enabling deeper exploration of prize amounts, categories, and institutional affiliations.
 
 
