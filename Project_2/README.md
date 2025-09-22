@@ -29,31 +29,26 @@ This project demonstrates a wide range of Power BI skills, including:
 - **⚙️ Data Transformation (Power Query):**
 
     -   Cleaned and standardized the Nobel Prize dataset.
-    -   Restructured the affiliation fields (originally spread across four columns) into a separate table with Name, Affiliation, and Index, linked back to the main dataset for accurate university-level analysis.
+    -   Restructured the affiliation fields (originally spread across four columns) into a separate table with **Name, Affiliation, and Index,** linked back to the main dataset for accurate university-level analysis.
     -   Added a unique Index column to replace duplicated IDs in the source.
 
-🧮 Custom Measures (DAX):
+- **🧮 Custom Measures (DAX):**
 
-Built explicit measures for KPIs such as total winners, awards, countries, and universities.
+    -   Built explicit measures for KPIs such as total winners, awards, countries, and universities.
+    -   Created measures for Median Prize and Median Prize (Today’s Value) to compare historical vs. inflation-adjusted amounts.
+    -   Designed calculations to update dynamically with slicers and parameters.
 
-Created measures for Median Prize and Median Prize (Today’s Value) to compare historical vs. inflation-adjusted amounts.
+- **📊 Visualizations:**
 
-Designed calculations to update dynamically with slicers and parameters.
+    -   Column & Line Combo Charts – compared median prize values with university affiliations.
+    -   Bar Charts – analyzed prize distribution across categories.
+    -   Line Charts – tracked Nobel Prize awards over time.
+    -   Cards – highlighted summary figures at a glance.
 
-📊 Visualizations:
+- **🎛️ Parameters & Slicers:**
 
-Column & Line Combo Charts – compared median prize values with university affiliations.
+    -   Interactive filtering by Category, Continent, Gender, and Individual/Organization.
 
-Bar Charts – analyzed prize distribution across categories.
+- **🎨 Dashboard Design:**
 
-Line Charts – tracked Nobel Prize awards over time.
-
-Cards – highlighted summary figures at a glance.
-
-🎛️ Parameters & Slicers:
-
-Interactive filtering by Category, Continent, Gender, and Individual/Organization.
-
-🎨 Dashboard Design:
-
-Modern dark-themed layout focused on clarity, balance, and storytelling.
+    -   Modern dark-themed layout focused on clarity, balance, and storytelling.
