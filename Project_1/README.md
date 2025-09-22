@@ -1,6 +1,6 @@
 # Water Pollution Dashboard w/ Power BI
 
-![Dashboard](images/1_Dashboard.gif)
+![Dashboard](../images/1_Dashboard.gif)
 
 ## 🌊 Introduction
 
