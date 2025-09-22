@@ -16,3 +16,7 @@ The dashboard provides dynamic filtering and parameter-driven views, enabling us
 This project was part of my Power BI practice journey, designed to strengthen skills in interactive dashboarding, advanced measures, and parameter usage while telling the story of one of the world’s most prestigious awards.
 
 🔗 Data Source: [All Nobel Prize winners from 1901-2025.03 on Kaggle](https://www.kaggle.com/datasets/jehanbhathena/all-nobel-prize-winners-from-1901-2024)
+
+## 📊 Dashboard File
+
+My final dashboard is in [Nobel_Prize_Data_Analysis.pbix](Nobel_Prize_Data_Analysis.pbix)
