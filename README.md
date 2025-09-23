@@ -9,11 +9,15 @@ This repo collects my interactive dashboards and analyses created as part of my 
 
 ## 🌊 Water Pollution Dashboard
 
+![Dashboard](../images/P1/1_Dashboard.gif)
+
 -   Explores environmental and water quality conditions across 10 countries.
 -   Features drill-through analysis, KPIs, and interactive navigation.
 -   Demonstrates ETL with Power Query, implicit measures, and dashboard storytelling.
 
 ## 🏆 Nobel Prize Dashboard
+
+![Dashboard](../images/P2/1_Dashboard.gif)
 
 -   Analyzes over a century of Nobel Prize awards.
 -   Offers insights into prize values, categories, countries, and universities.
