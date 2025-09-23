@@ -7,7 +7,7 @@ This repo collects my interactive dashboards and analyses created as part of my 
 
 # 📂 Projects
 
-## 🌊 Water Pollution Dashboard
+## [🌊 Water Pollution Dashboard](./Project_1/README.md)
 
 [![Dashboard](images/P1/1_Dashboard.gif)](./Project_1/README.md)
 
@@ -15,7 +15,7 @@ This repo collects my interactive dashboards and analyses created as part of my 
 -   Features drill-through analysis, KPIs, and interactive navigation.
 -   Demonstrates ETL with Power Query, implicit measures, and dashboard storytelling.
 
-## 🏆 Nobel Prize Dashboard
+## [🏆 Nobel Prize Dashboard](./Project_2/README.md)
 
 [![Dashboard](images/P2/1_Dashboard.gif)](./Project_2/README.md)
 
