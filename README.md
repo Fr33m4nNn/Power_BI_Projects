@@ -9,7 +9,7 @@ This repo collects my interactive dashboards and analyses created as part of my 
 
 ## 🌊 Water Pollution Dashboard
 
-![Dashboard](images/P1/1_Dashboard.gif)
+![Dashboard](images/P1/1_Dashboard.gif)(./Project_1/README.md)
 
 -   Explores environmental and water quality conditions across 10 countries.
 -   Features drill-through analysis, KPIs, and interactive navigation.
@@ -17,7 +17,7 @@ This repo collects my interactive dashboards and analyses created as part of my 
 
 ## 🏆 Nobel Prize Dashboard
 
-![Dashboard](images/P2/1_Dashboard.gif)
+![Dashboard](images/P2/1_Dashboard.gif)(./Project_2/README.md)
 
 -   Analyzes over a century of Nobel Prize awards.
 -   Offers insights into prize values, categories, countries, and universities.
