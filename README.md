@@ -34,4 +34,4 @@ This repo collects my interactive dashboards and analyses created as part of my 
 
 All dashboards are created for learning and demonstration purposes, based on publicly available datasets.
 
-👉 Feel free to explore the project folders above to see detailed breakdowns and dashboards.
+👉 Click on the project titles or images above to explore detailed breakdowns and dashboards.
